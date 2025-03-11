@@ -2,6 +2,6 @@
   "name": "Krews",
   "website": "https://krews.xyz",
   "description": "Krews operates high-performance validators on leading Proof-of-Stake networks, ensuring security, decentralization, and network reliability.",
-  "logo": "",
+  "logo": "https://raw.githubusercontent.com/sSelmann/eigenlayer-assets/refs/heads/main/testnet/logo.svg",
   "twitter": "https://x.com/krewstake"
 }
